@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RAHULKUMARKESHRI
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning dsa in c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning dsa in c++, buliding projects
+- 💞️ I’m looking to collaborate on Mernstack projects
 - 📫 How to reach me - (email for contact) rahulkeshrimohania@gmail.com
 
 <!---
